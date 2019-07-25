@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Dis is my about page. I don't really know what I should put here, so this will have to do. I like food. I dislike not having food.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More information: you don't need any. I'm great. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Don't.
